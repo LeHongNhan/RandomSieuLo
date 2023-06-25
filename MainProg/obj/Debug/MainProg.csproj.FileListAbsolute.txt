@@ -1,0 +1,15 @@
+E:\Code windows form\Random App\MainProg\obj\Debug\MainProg.csprojResolveAssemblyReference.cache
+E:\Code windows form\Random App\MainProg\obj\Debug\MainProg.Properties.Resources.resources
+E:\Code windows form\Random App\MainProg\obj\Debug\MainProg.csproj.GenerateResource.Cache
+E:\Code windows form\Random App\MainProg\obj\Debug\MainProg.RandomName.resources
+E:\Code windows form\Random App\MainProg\obj\Debug\MainProg.RandomTeam.resources
+E:\Code windows form\Random App\MainProg\obj\Debug\MainProg.mainForm.resources
+E:\Code windows form\Random App\MainProg\bin\Debug\Random siêu lỏ.exe.config
+E:\Code windows form\Random App\MainProg\bin\Debug\Random siêu lỏ.exe
+E:\Code windows form\Random App\MainProg\bin\Debug\Random siêu lỏ.pdb
+E:\Code windows form\Random App\MainProg\obj\Debug\Random siêu lỏ.exe
+E:\Code windows form\Random App\MainProg\obj\Debug\Random siêu lỏ.pdb
+E:\Code windows form\Random App\MainProg\bin\Debug\Random siêu lỏ.exe.manifest
+E:\Code windows form\Random App\MainProg\bin\Debug\Random siêu lỏ.application
+E:\Code windows form\Random App\MainProg\obj\Debug\Random siêu lỏ.exe.manifest
+E:\Code windows form\Random App\MainProg\obj\Debug\Random siêu lỏ.application

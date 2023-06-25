@@ -1,0 +1,10 @@
+E:\Code windows form\Random App\MainProg\obj\Release\MainProg.mainForm.resources
+E:\Code windows form\Random App\MainProg\obj\Release\MainProg.RandomName.resources
+E:\Code windows form\Random App\MainProg\obj\Release\MainProg.RandomTeam.resources
+E:\Code windows form\Random App\MainProg\obj\Release\MainProg.Properties.Resources.resources
+E:\Code windows form\Random App\MainProg\obj\Release\MainProg.csproj.GenerateResource.Cache
+E:\Code windows form\Random App\MainProg\bin\Release\Random siêu lỏ.exe.config
+E:\Code windows form\Random App\MainProg\bin\Release\Random siêu lỏ.exe
+E:\Code windows form\Random App\MainProg\bin\Release\Random siêu lỏ.pdb
+E:\Code windows form\Random App\MainProg\obj\Release\Random siêu lỏ.exe
+E:\Code windows form\Random App\MainProg\obj\Release\Random siêu lỏ.pdb
