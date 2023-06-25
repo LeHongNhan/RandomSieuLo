@@ -70,8 +70,6 @@
             this.txtNhapTen.Name = "txtNhapTen";
             this.txtNhapTen.Size = new System.Drawing.Size(267, 22);
             this.txtNhapTen.TabIndex = 1;
-            this.txtNhapTen.TextChanged += new System.EventHandler(this.txtNhapTen_TextChanged_1);
-            this.txtNhapTen.Enter += new System.EventHandler(this.btnCapnhatTen_Click);
             // 
             // lstDSTen
             // 

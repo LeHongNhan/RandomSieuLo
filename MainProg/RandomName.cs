@@ -74,11 +74,6 @@ namespace MainProg
             lstDSTen.Items.Add(txtNhapTen.Text);
         }
 
-        private void txtNhapTen_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnRandomDelete_Click(object sender, EventArgs e)
         {
             if(lstDSTen.Items.Count == 0)
@@ -116,11 +111,6 @@ namespace MainProg
             lstDSTen.Items.Add(txtNhapTen.Text);
         }
 
-        private void txtNhapTen_Enter_1(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnRandom_Click(object sender, EventArgs e)
         {
             if (lstDSTen.Items.Count == 0)
@@ -132,11 +122,6 @@ namespace MainProg
             int random = R.Next(0, lstDSTen.Items.Count);
             MessageBox.Show("Kết quả: " + lstDSTen.Items[random]);
             lstDSTen.Items.RemoveAt(random);
-        }
-
-        private void txtNhapTen_TextChanged_1(object sender, EventArgs e)
-        {
-
         }
     }
 }
