@@ -56,6 +56,7 @@ namespace MainProg
                 }
             }
             lstDanhSachTen.Items.Add(txtTen.Text);
+            txtTen.Text = "";
 
         }
 
@@ -227,6 +228,7 @@ namespace MainProg
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
+            if(lstDanhSachTen.SelectedIndex > -1)
             lstDanhSachTen.Items.RemoveAt(lstDanhSachTen.SelectedIndex);
         }
 
@@ -256,6 +258,11 @@ namespace MainProg
             {
                 errorProvider1.SetError(txtSoLuong, "Hãy nhập số lớp hơn 0!");
             }
+        }
+
+        private void btnXoaKetQua_Click(object sender, EventArgs e)
+        {
+            lstKetQua.Items.Clear();
         }
     }
 }

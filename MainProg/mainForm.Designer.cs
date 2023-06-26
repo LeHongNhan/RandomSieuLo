@@ -103,6 +103,7 @@
             this.ClientSize = new System.Drawing.Size(927, 538);
             this.Controls.Add(this.panelBody);
             this.Controls.Add(this.panel1);
+            this.MaximizeBox = false;
             this.Name = "mainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "mainForm";
