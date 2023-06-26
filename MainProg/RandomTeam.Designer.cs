@@ -48,6 +48,7 @@
             this.radTVMoiNhom = new System.Windows.Forms.RadioButton();
             this.radSoLuongNhom = new System.Windows.Forms.RadioButton();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.btnXoaKetQua = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -168,6 +169,7 @@
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.btnXoaKetQua);
             this.panel2.Controls.Add(this.lstKetQua);
             this.panel2.Controls.Add(this.lblKetQua);
             this.panel2.Location = new System.Drawing.Point(289, 231);
@@ -249,6 +251,20 @@
             // 
             this.errorProvider1.ContainerControl = this;
             // 
+            // btnXoaKetQua
+            // 
+            this.btnXoaKetQua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnXoaKetQua.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnXoaKetQua.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnXoaKetQua.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnXoaKetQua.Location = new System.Drawing.Point(257, -2);
+            this.btnXoaKetQua.Name = "btnXoaKetQua";
+            this.btnXoaKetQua.Size = new System.Drawing.Size(117, 30);
+            this.btnXoaKetQua.TabIndex = 2;
+            this.btnXoaKetQua.Text = "Xóa kết quả";
+            this.btnXoaKetQua.UseVisualStyleBackColor = false;
+            this.btnXoaKetQua.Click += new System.EventHandler(this.btnXoaKetQua_Click);
+            // 
             // RandomTeam
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -301,6 +317,7 @@
         private System.Windows.Forms.RadioButton radSoLuongNhom;
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.Button btnXoaKetQua;
     }
 }
 

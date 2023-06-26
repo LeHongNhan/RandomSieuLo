@@ -109,6 +109,7 @@ namespace MainProg
                 }
             }
             lstDSTen.Items.Add(txtNhapTen.Text);
+            txtNhapTen.Text = "";
         }
 
         private void btnRandom_Click(object sender, EventArgs e)
